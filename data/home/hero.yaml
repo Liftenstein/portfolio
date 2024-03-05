@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Big enough to **deliver**,  small enough to **care**"
+  text: "In the digital age, your online presence is your business's front door. At [Your Company Name], we specialize in crafting bespoke digital experiences that engage your customers, streamline your operations, and elevate your brand. Our team's expertise in cutting-edge web technologies ensures your business thrives in an ever-evolving online marketplace."
 
   buttonPrimary:
     label: "How we work"
-    url: "#"
+    url: "#portfolio"
 
-  buttonSecondary:
-    label: "Let's talk"
-    url: ""
+  # buttonSecondary:
+  #   label: "Let's talk"
+  #   url: ""
 

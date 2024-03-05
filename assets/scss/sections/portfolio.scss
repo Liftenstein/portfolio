@@ -1,0 +1,11 @@
+.section.portfolio {
+  @media (min-width: 1200px) {
+    margin: 75px 0;
+  }
+    .portfolio-feature:nth-child(odd) {
+      @media (min-width: 1200px) {
+        flex-direction: row;
+      }
+    }
+  }
+  

@@ -3,25 +3,25 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "At [Your Company Name], we believe in delivering solutions that drive success. Our suite of digital services is crafted with precision, dedication, and a deep understanding of the web's ever-evolving landscape. From engaging front-end designs to robust back-end architectures, we ensure every project is built on a foundation of excellence and innovation. Our commitment is to not only meet your expectations but to exceed them, fostering growth, efficiency, and competitive advantage in your industry."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+      title: "Web & API Development"
+      text: "Elevate your online presence with our end-to-end web development and API integration services. We deliver responsive designs, robust back-end systems, and seamless API connections that power interactive and dynamic web experiences. Expect cutting-edge solutions that align perfectly with your business strategy. "
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+      title: "Deployment & Backend Engineering"
+      text: "Ensure your web applications are deployed efficiently with our backend and deployment expertise. We provide scalable cloud hosting, continuous integration and deployment pipelines, and comprehensive database management to keep your operations running smoothly and securely, day and night. "
+      # button:
+      #   label: "Learn more"
+      #   url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
-      button:
-        label: "Learn more"
-        url: "#"
+      title: "E-Commerce Platforms"
+      text: "Launch your online store with our specialized e-commerce platforms, designed to maximize user engagement and sales. Our solutions include intuitive shopping carts, secure payment processing, and insightful user analytics to drive performance and provide a superior shopping experience for your customers. "
+      # button:
+      #   label: "Learn more"
+      #   url: "#"

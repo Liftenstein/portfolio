@@ -3,37 +3,58 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Our Process"
+    title: "How we work"
+    text: |
+      At [Your Company Name], we believe transparency and collaboration are key to successful projects. Here's how we work with you to turn your ideas into reality:
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+      1. **Discovery & Strategy**
+      We start by getting to know your business, your goals, and your audience. Together, we'll define the project's scope and develop a strategic plan to achieve your objectives.
 
-      - label: "Read more"
-        url: "#"
+      2. **Design & Development**
+      Our team designs with your customer in mind, crafting a user experience that is intuitive and engaging. Development is then carried out using best practices and cutting-edge technologies.
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+      3. **Iterative Feedback**
+      We adopt an agile approach, with regular check-ins for your feedback. This ensures that the project evolves in line with your vision and we can make adjustments as needed.
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+      4. **Quality Assurance**
+      Before launch, we conduct thorough testing across all browsers and devices. We ensure that every aspect of your site is polished, secure, and ready for visitors.
 
-      - label: "Read more"
-        url: "#"
+      5. **Launch & Grow**
+      With your approval, we launch your project to the world. But our relationship doesn't end there; we're here to support, measure, and help you grow further.
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+      6. **Ongoing Support**
+      We offer continuous support and maintenance to ensure your digital assets remain current and effective. From updates to optimizations, we're here for the long haul.
 
-    buttons: 
-      - label: "See live"
-        url: "#"
+      Ready to see how we can work together to create something remarkable? Let's start the conversation.
 
-      - label: "Read more"
-        url: "#"
+    # buttons: 
+    #   - label: "Book a call"
+    #     url: "#"
+
+  #     - label: "Read more"
+  #       url: "#"
+
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Portfolio Service"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  #   buttons: 
+  #     - label: "See live"
+  #       url: "#"
+
+  #     - label: "Read more"
+  #       url: "#"
+
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Portfolio Service"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+
+  #   buttons: 
+  #     - label: "See live"
+  #       url: "#"
+
+  #     - label: "Read more"
+  #       url: "#"
