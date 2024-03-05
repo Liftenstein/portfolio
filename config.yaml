@@ -32,8 +32,10 @@ params:
   #   - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
-    - "placeholder@gamail.com"
-    - "123-867-5309"
+    - name: "admin@liftenstein.com"
+      url: "mailTo:admin@liftenstein.com"
+    - name: "469-442-5902"
+      url: "tel:4694425902"
 
   # copyright: "© 2022 Up Business All Rights Reserved"
 
@@ -59,11 +61,11 @@ menus:
     #   url: "/blog"
     #   weight: 5
 
-  # buttons:
-  #   - name: "Book a call"
-  #     url: "/#"
-  #     weight: 5
-  #     pre: "btn btn-primary text-light"
+  buttons:
+    - name: "Contact Us"
+      url: "tel:4694425902"
+      weight: 5
+      pre: "btn btn-primary text-light"
 
   footer:
     - name: "Services"

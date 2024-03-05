@@ -9,7 +9,7 @@ content:
     label: "How we work"
     url: "#portfolio"
 
-  # buttonSecondary:
-  #   label: "Let's talk"
-  #   url: ""
+  buttonSecondary:
+    label: "Let's talk"
+    url: "mailTo:admin@liftenstein.com"
 
