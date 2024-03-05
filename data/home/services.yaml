@@ -3,7 +3,7 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "At [Your Company Name], we believe in delivering solutions that drive success. Our suite of digital services is crafted with precision, dedication, and a deep understanding of the web's ever-evolving landscape. From engaging front-end designs to robust back-end architectures, we ensure every project is built on a foundation of excellence and innovation. Our commitment is to not only meet your expectations but to exceed them, fostering growth, efficiency, and competitive advantage in your industry."
+  text: "At Interlink Innovations, we believe in delivering solutions that drive success. Our suite of digital services is crafted with precision, dedication, and a deep understanding of the web's ever-evolving landscape. From engaging front-end designs to robust back-end architectures, we ensure every project is built on a foundation of excellence and innovation. Our commitment is to not only meet your expectations but to exceed them, fostering growth, efficiency, and competitive advantage in your industry."
   cards:
     - image: "images/services-web-development.png"
       title: "Web & API Development"
